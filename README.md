@@ -1,1 +1,1 @@
-terminalConsulta
+terminal
